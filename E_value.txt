@@ -1,0 +1,481 @@
+****Alignment****
+Blast hit title: 
+gi|2208966392|ref|NM_001402517.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 6, mRNA
+Alignment length: 
+1596
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|385717723|gb|JF915843.1| Oryza sativa dehydration responsive element binding protein 2B isoform a (DREB2B) mRNA, complete cds, alternatively spliced
+Alignment length: 
+1549
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2208966370|ref|NM_001402516.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 5, mRNA
+Alignment length: 
+1599
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2348160508|ref|XM_052298676.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X5, mRNA
+Alignment length: 
+1572
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|385717725|gb|JF915844.1| Oryza sativa dehydration responsive element binding protein 2B isoform b (DREB2B) mRNA, complete cds, alternatively spliced
+Alignment length: 
+1602
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|32981873|dbj|AK071850.1| Oryza sativa Japonica Group cDNA clone:J023116E13, full insert sequence
+Alignment length: 
+1616
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|32984430|dbj|AK099221.1| Oryza sativa Japonica Group cDNA clone:J013087H21, full insert sequence
+Alignment length: 
+1604
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|937916895|dbj|AP014961.1| Oryza sativa Japonica Group DNA, chromosome 5, cultivar: Nipponbare, complete sequence
+Alignment length: 
+29958434
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|937916895|dbj|AP014961.1| Oryza sativa Japonica Group DNA, chromosome 5, cultivar: Nipponbare, complete sequence
+Alignment length: 
+29958434
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2328533772|gb|CP101144.1| Oryza sativa Japonica Group cultivar Changxianggeng 1813 chromosome 4
+Alignment length: 
+30175499
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2328533772|gb|CP101144.1| Oryza sativa Japonica Group cultivar Changxianggeng 1813 chromosome 4
+Alignment length: 
+30175499
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2208966386|ref|NM_001402513.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 2, mRNA
+Alignment length: 
+1729
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2208966386|ref|NM_001402513.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 2, mRNA
+Alignment length: 
+1729
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2208966374|ref|NM_001402512.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 1, mRNA
+Alignment length: 
+1732
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2208966374|ref|NM_001402512.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 1, mRNA
+Alignment length: 
+1732
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|309400386|gb|GU046790.1| Oryza sativa Japonica Group cultivar Dongjin-byeo putative DREB transcription factor 3 mRNA, complete cds
+Alignment length: 
+1192
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|385717719|gb|JF915842.1| Oryza sativa dehydration responsive element binding protein 2B (DREB2B) gene, complete cds, alternatively spliced
+Alignment length: 
+3299
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|385717719|gb|JF915842.1| Oryza sativa dehydration responsive element binding protein 2B (DREB2B) gene, complete cds, alternatively spliced
+Alignment length: 
+3299
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|50726709|gb|AC134928.2| Oryza sativa Japonica Group cultivar Nipponbare chromosome 5 clone B1164G01, complete sequence
+Alignment length: 
+151938
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|50726709|gb|AC134928.2| Oryza sativa Japonica Group cultivar Nipponbare chromosome 5 clone B1164G01, complete sequence
+Alignment length: 
+151938
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|49658585|gb|AC134927.2| Oryza sativa Japonica Group cultivar Nipponbare chromosome 5 clone B1036C05, complete sequence
+Alignment length: 
+143400
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|49658585|gb|AC134927.2| Oryza sativa Japonica Group cultivar Nipponbare chromosome 5 clone B1036C05, complete sequence
+Alignment length: 
+143400
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2208966378|ref|NM_001402514.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 3, mRNA
+Alignment length: 
+1729
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2208966378|ref|NM_001402514.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 3, mRNA
+Alignment length: 
+1729
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2208966362|ref|NM_001402515.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 4, mRNA
+Alignment length: 
+1726
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2208966362|ref|NM_001402515.1| Oryza sativa Japonica Group dehydration-responsive element-binding protein 2B-like (LOC4338484), transcript variant 4, mRNA
+Alignment length: 
+1726
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|385717727|gb|JF915845.1| Oryza sativa dehydration responsive element binding protein 2B isoform c (DREB2B) mRNA, complete cds, alternatively spliced
+Alignment length: 
+1684
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|385717727|gb|JF915845.1| Oryza sativa dehydration responsive element binding protein 2B isoform c (DREB2B) mRNA, complete cds, alternatively spliced
+Alignment length: 
+1684
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|1189419119|gb|CP018161.1| Oryza sativa Indica Group cultivar Shuhui498 chromosome 5, partial sequence
+Alignment length: 
+31237231
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1189419119|gb|CP018161.1| Oryza sativa Indica Group cultivar Shuhui498 chromosome 5, partial sequence
+Alignment length: 
+31237231
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|932282907|gb|CP012613.1| Oryza sativa Indica Group cultivar RP Bio-226 chromosome 5 sequence
+Alignment length: 
+29396997
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|932282907|gb|CP012613.1| Oryza sativa Indica Group cultivar RP Bio-226 chromosome 5 sequence
+Alignment length: 
+29396997
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|1948822321|gb|CP056056.1| Oryza sativa Indica Group cultivar Zhenshan 97 chromosome 5
+Alignment length: 
+30786153
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1948822321|gb|CP056056.1| Oryza sativa Indica Group cultivar Zhenshan 97 chromosome 5
+Alignment length: 
+30786153
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|1948822306|gb|CP054680.1| Oryza sativa Indica Group cultivar Minghui 63 chromosome 5
+Alignment length: 
+31307418
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1948822306|gb|CP054680.1| Oryza sativa Indica Group cultivar Minghui 63 chromosome 5
+Alignment length: 
+31307418
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|1914068751|gb|MT787348.1| Oryza sativa Indica Group cultivar XieqingzaoB qRN5a mapping region genomic sequence
+Alignment length: 
+1000000
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1914068751|gb|MT787348.1| Oryza sativa Indica Group cultivar XieqingzaoB qRN5a mapping region genomic sequence
+Alignment length: 
+1000000
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|1914068750|gb|MT787347.1| Oryza sativa Indica Group cultivar Zhonghui9308 qRN5a mapping region genomic sequence
+Alignment length: 
+1000000
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1914068750|gb|MT787347.1| Oryza sativa Indica Group cultivar Zhonghui9308 qRN5a mapping region genomic sequence
+Alignment length: 
+1000000
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|116632430|emb|CT832234.1| Oryza sativa (indica cultivar-group) cDNA clone:OSIGCRA115A02, full insert sequence
+Alignment length: 
+1625
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|116632430|emb|CT832234.1| Oryza sativa (indica cultivar-group) cDNA clone:OSIGCRA115A02, full insert sequence
+Alignment length: 
+1625
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2348160502|ref|XM_052298673.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X2, mRNA
+Alignment length: 
+1710
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2348160502|ref|XM_052298673.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X2, mRNA
+Alignment length: 
+1710
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2348160500|ref|XM_052298672.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X1, mRNA
+Alignment length: 
+1713
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2348160500|ref|XM_052298672.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X1, mRNA
+Alignment length: 
+1713
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2348160506|ref|XM_052298675.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X4, mRNA
+Alignment length: 
+1707
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2348160506|ref|XM_052298675.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X4, mRNA
+Alignment length: 
+1707
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|2348160504|ref|XM_052298674.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X3, mRNA
+Alignment length: 
+1710
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|2348160504|ref|XM_052298674.1| PREDICTED: Oryza glaberrima dehydration-responsive element-binding protein 2B (LOC127772719), transcript variant X3, mRNA
+Alignment length: 
+1710
+E-value: 
+9.50701e-27****Alignment****
+Blast hit title: 
+gi|1002857171|ref|XM_015837732.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X4, mRNA
+Alignment length: 
+1514
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1002857171|ref|XM_015837732.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X4, mRNA
+Alignment length: 
+1514
+E-value: 
+1.41221e-05****Alignment****
+Blast hit title: 
+gi|1002857169|ref|XM_015837731.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X3, mRNA
+Alignment length: 
+1517
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1002857169|ref|XM_015837731.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X3, mRNA
+Alignment length: 
+1517
+E-value: 
+1.41221e-05****Alignment****
+Blast hit title: 
+gi|1002857167|ref|XM_015837730.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X2, mRNA
+Alignment length: 
+1652
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1002857167|ref|XM_015837730.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X2, mRNA
+Alignment length: 
+1652
+E-value: 
+2.23781e-09****Alignment****
+Blast hit title: 
+gi|1002857167|ref|XM_015837730.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X2, mRNA
+Alignment length: 
+1652
+E-value: 
+1.41221e-05****Alignment****
+Blast hit title: 
+gi|1002857165|ref|XM_015837729.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X1, mRNA
+Alignment length: 
+1655
+E-value: 
+0.0****Alignment****
+Blast hit title: 
+gi|1002857165|ref|XM_015837729.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X1, mRNA
+Alignment length: 
+1655
+E-value: 
+2.23781e-09****Alignment****
+Blast hit title: 
+gi|1002857165|ref|XM_015837729.1| PREDICTED: Oryza brachyantha dehydration-responsive element-binding protein 2B-like (LOC102715207), transcript variant X1, mRNA
+Alignment length: 
+1655
+E-value: 
+1.41221e-05****Alignment****
+Blast hit title: 
+gi|242374263|emb|FP100979.1| Phyllostachys edulis cDNA clone: bphylf055p02, full insert sequence
+Alignment length: 
+1487
+E-value: 
+1.31567e-113****Alignment****
+Blast hit title: 
+gi|242374263|emb|FP100979.1| Phyllostachys edulis cDNA clone: bphylf055p02, full insert sequence
+Alignment length: 
+1487
+E-value: 
+1.318e-75****Alignment****
+Blast hit title: 
+gi|2255000263|ref|XM_048701913.1| PREDICTED: Triticum urartu dehydration-responsive element-binding protein 2B-like (LOC125538647), transcript variant X2, mRNA
+Alignment length: 
+1458
+E-value: 
+8.3028e-110****Alignment****
+Blast hit title: 
+gi|2254984052|ref|XM_048679238.1| PREDICTED: Triticum urartu dehydration-responsive element-binding protein 2B-like (LOC125513991), transcript variant X2, mRNA
+Alignment length: 
+1458
+E-value: 
+8.3028e-110****Alignment****
+Blast hit title: 
+gi|1931423239|ref|XM_037611900.1| PREDICTED: Triticum dicoccoides dehydration-responsive element-binding protein 2B-like (LOC119339990), transcript variant X1, mRNA
+Alignment length: 
+1424
+E-value: 
+8.3028e-110****Alignment****
+Blast hit title: 
+gi|750929724|gb|KM201387.1| Stipa purpurea dehydration responsive element binding protein mRNA, partial cds
+Alignment length: 
+993
+E-value: 
+1.01149e-108****Alignment****
+Blast hit title: 
+gi|750929724|gb|KM201387.1| Stipa purpurea dehydration responsive element binding protein mRNA, partial cds
+Alignment length: 
+993
+E-value: 
+6.40578e-29****Alignment****
+Blast hit title: 
+gi|306486916|gb|HM015903.1| Triticum turgidum subsp. dicoccoides DRE-binding transcription factor 1.1 mRNA, complete cds, alternatively spliced
+Alignment length: 
+1026
+E-value: 
+1.01149e-108****Alignment****
+Blast hit title: 
+gi|2123600565|ref|XM_044548989.1| PREDICTED: Triticum aestivum dehydration-responsive element-binding protein 2B (LOC100049020), transcript variant X2, mRNA
+Alignment length: 
+1445
+E-value: 
+3.53044e-108****Alignment****
+Blast hit title: 
+gi|209960829|gb|EU781992.1| Triticum turgidum subsp. durum cultivar Ciccio dehydration responsive factor 1 variant 1.3 mRNA, complete cds, alternatively spliced
+Alignment length: 
+1239
+E-value: 
+3.53044e-108****Alignment****
+Blast hit title: 
+gi|60100217|gb|AY781350.1| Triticum aestivum DREB transcription factor 3B (DREB3) mRNA, complete cds, alternatively spliced
+Alignment length: 
+1181
+E-value: 
+3.53044e-108****Alignment****
+Blast hit title: 
+gi|1931410058|ref|XM_037556985.1| PREDICTED: Triticum dicoccoides dehydration-responsive element-binding protein 2B-like (LOC119276024), transcript variant X2, mRNA
+Alignment length: 
+1469
+E-value: 
+3.53044e-108****Alignment****
+Blast hit title: 
+gi|1371066915|ref|XM_003568607.4| PREDICTED: Brachypodium distachyon dehydration-responsive element-binding protein 2B (LOC100845690), transcript variant X2, mRNA
+Alignment length: 
+1543
+E-value: 
+4.30096e-107****Alignment****
+Blast hit title: 
+gi|1371066915|ref|XM_003568607.4| PREDICTED: Brachypodium distachyon dehydration-responsive element-binding protein 2B (LOC100845690), transcript variant X2, mRNA
+Alignment length: 
+1543
+E-value: 
+2.72621e-08****Alignment****
+Blast hit title: 
+gi|209960831|gb|EU781993.1| Triticum turgidum subsp. durum cultivar Atil C2000 dehydration responsive factor 1 variant 1.3 mRNA, complete cds, alternatively spliced
+Alignment length: 
+1211
+E-value: 
+4.30096e-107****Alignment****
+Blast hit title: 
+gi|155006490|gb|DQ013205.2| Triticum turgidum subsp. durum AP2 transcriptional activator (DRF1) mRNA, complete cds, alternatively spliced
+Alignment length: 
+1042
+E-value: 
+4.30096e-107****Alignment****
+Blast hit title: 
+gi|2157894955|ref|XM_020300709.3| PREDICTED: Aegilops tauschii subsp. strangulata dehydration-responsive element-binding protein 2B (LOC109741636), transcript variant X2, mRNA
+Alignment length: 
+1449
+E-value: 
+1.50118e-106****Alignment****
+Blast hit title: 
+gi|2123617236|ref|XM_044594028.1| PREDICTED: Triticum aestivum dehydration-responsive element-binding protein 2B (LOC606371), transcript variant X1, mRNA
+Alignment length: 
+1446
+E-value: 
+1.50118e-106****Alignment****
+Blast hit title: 
+gi|209960841|gb|EU795301.1| Triticum turgidum subsp. durum x Secale cereale cultivar Pollmer TCL 2003 dehydration responsive factor 1 variant 1.3 mRNA, complete cds, alternatively spliced
+Alignment length: 
+1205
+E-value: 
+1.50118e-106****Alignment****
+Blast hit title: 
+gi|62898546|dbj|AB193608.1| Triticum aestivum Wdreb2 mRNA for EREBP/AP2 type transcription factor, complete cds
+Alignment length: 
+1456
+E-value: 
+1.50118e-106
